@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{"5NiX":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));var a=n("mIDc"),c=n("q1tI"),r=n.n(c),s=n("0KnO");function i(){var e=Object(s.b)().listProjects;return r.a.createElement("div",{className:"header w-11/12 md:w-4/5 m-auto"},r.a.createElement(a.a,{subtitle:e.length+" projects",title:"My projects",className:"mb-14"}))}}}]);
+//# sourceMappingURL=18-02b825983c483590c9a5.js.map
