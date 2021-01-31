@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{"5NiX":function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));var a=n("mIDc"),c=n("q1tI"),r=n.n(c),s=n("0KnO");function i(){var e=Object(s.b)().listProjects;return r.a.createElement("div",{className:"header w-4/5 m-auto"},r.a.createElement(a.a,{subtitle:e.length+" projects",title:"My projects",className:"mb-14"}))}}}]);
-//# sourceMappingURL=18-fb8aefd6f69928d13a45.js.map
